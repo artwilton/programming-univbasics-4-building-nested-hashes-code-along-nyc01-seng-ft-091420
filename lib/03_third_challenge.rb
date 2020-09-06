@@ -26,6 +26,8 @@ def third_challenge
         #your key/value pairs here
         },
       :matriarch => {
+        :name => "Juliet",
+        :age = "15",
         
         #your key/value pairs here
         },
